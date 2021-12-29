@@ -6,7 +6,7 @@ Live Website Link
 
 ```javascript
 
-https://assault-rifles.web.app/
+https://custard-cake.web.app/
  
 ```
 
@@ -14,7 +14,7 @@ Live API Link
 
 ```javascript
 
-https://assault-rifles-backend-api.herokuapp.com/
+https://custard-cake-backend-api.herokuapp.com/
  
 ```
  
@@ -22,7 +22,7 @@ Font End application
 
 ```javascript
 
-https://github.com/AhnabShahin/Assault-Rifles-client-side
+https://github.com/AhnabShahin/custard-cake-client-side
  
 ```
  
